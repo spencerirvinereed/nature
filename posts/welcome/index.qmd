@@ -1,10 +1,8 @@
 ---
-title: "Welcome To My Blog"
-author: "Tristan O'Malley"
+title: "Welcome To 도덕경(道德經)"
+author: "Lao Tze 老子 노자"
 date: "2023-10-07"
-categories: [news]
+categories: [way]
 ---
 
-This is the first post in a Quarto blog. Welcome!
-
-Since this post doesn't specify an explicit `image`, the first image in the post will be used in the listing page of posts.
+This is a study of the way and enhance the understanding of Korean and learn Chinese characters.

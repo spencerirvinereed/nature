@@ -3,7 +3,6 @@ title: "도덕경(道德經) 81"
 author: "Lao Tze 老子 노자"
 date: "2023-10-10"
 categories: [dao, characters]
-image: "image.jpg"
 ---
 
 信言不美，
@@ -33,7 +32,6 @@ image: "image.jpg"
 성인의 도는 싸우지 않고 이룬다.
 
 ![Sunset over Orem](sunset.jpeg)
-
 "Sincere words are not beautiful; beautiful words are not sincere.
 Good men are not argumentative, the argumentative are not good.
 One who knows is not erudite; the erudite one does not know.
