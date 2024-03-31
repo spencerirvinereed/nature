@@ -1,5 +1,5 @@
 ---
-title: "도덕경(道德經) 77"
+title: "도덕경(道德經) 76"
 author: "Lao Tze 老子 노자"
 date: "2023-10-15"
 categories: [dao, characters]

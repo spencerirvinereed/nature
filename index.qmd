@@ -1,5 +1,5 @@
 ---
-title: "aspen_nature"
+title: "도덕경 道德經"
 listing:
   contents: posts
   sort: "date desc"
